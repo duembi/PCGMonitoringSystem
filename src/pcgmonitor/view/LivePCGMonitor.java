@@ -45,7 +45,7 @@ public class LivePCGMonitor extends JFrame {
         chartPanel.setPreferredSize(new Dimension(750, 400));
 
         JButton stopButton = new JButton("Durdur");
-        stopButton.addActionListener(e -> stopMonitoring());
+        stopButton.addActionListener(_ -> stopMonitoring());
 
         JPanel controlPanel = new JPanel();
         controlPanel.add(stopButton);
