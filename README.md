@@ -1,4 +1,3 @@
-# PCGMonitoringSystem
 
 # Phonocardiogram Monitoring System
 
